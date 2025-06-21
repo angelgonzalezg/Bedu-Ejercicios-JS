@@ -8,4 +8,5 @@ const data = [
   { imagen: "images/perrito7.jpeg", descripcion: "nueva foto2", status: true, version: '1.0.0' },
   { imagen: "images/perrito8.jpeg", descripcion: "nueva foto3", status: false, version: '1.0.0' },
   { imagen: "images/perrito9.jpeg", descripcion: "nueva foto4", status: true, version: '1.0.0' },
+  { imagen: "images/perrito10.jpeg", descripcion: "snoopy", status: true, version: '1.0.0' },
 ]
